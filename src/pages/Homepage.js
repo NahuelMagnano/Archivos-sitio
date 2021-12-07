@@ -6,7 +6,7 @@ const HomePage = (props) => {
         <div className="contenedorindex">
           <div className="pad">
             <div className="left">
-              <img className="imagenindex" src="public/autof1.png" alt="pngF1"/>
+              <img className="imagenindex" src = "images/autof1.png" alt="pngF1"/>
             </div>
             <div className="right">
               <h1>Bienvenidos a WorldTick</h1>
