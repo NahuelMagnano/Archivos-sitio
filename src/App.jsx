@@ -14,7 +14,6 @@ import NoticiasPage from './pages/Noticiaspage';
 
 function App() {
   return (
-    
       <Router>
           <Header></Header>
           <Nav />

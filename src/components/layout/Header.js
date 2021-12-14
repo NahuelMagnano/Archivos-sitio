@@ -1,10 +1,13 @@
 import React from 'react';
+import '../../styles/components/layout/Header.css';
+import '../../App.css';
+
 
 const Header = (props) => {
     return (
         <header>
             <i className="fas fa-cubes"></i>
-            <h1>WorldTick</h1>
+            <p>WorldTick</p>
         </header>
     );
 }
